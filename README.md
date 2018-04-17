@@ -10,5 +10,5 @@ git push -u nameOfBranch
 overwrite local files
 git status #comapres files
 git fetch --all
-git reset --hard branchName
-git pull branchName
+git reset --hard origin branchName
+git pull origin branchName
