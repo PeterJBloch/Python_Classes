@@ -18,3 +18,5 @@ git pull origin branchName
 
 names of branches
 git branch 
+
+git checkout <branch> #switches to branch
